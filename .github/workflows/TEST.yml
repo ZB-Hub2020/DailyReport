@@ -5,7 +5,7 @@ on:
     branches: 
       - master
   schedule:
-    - cron: "8 9 * * *"
+    - cron: "11 9 * * *"
 
 jobs:
   build:
@@ -20,6 +20,6 @@ jobs:
         # message type
         type: text # optional, default is text
         # message content
-        at: "曾彬"
-        content: "TEST~"
+        at: '曾彬'
+        content: "TEST~@曾彬"
           
