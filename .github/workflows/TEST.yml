@@ -5,7 +5,7 @@ on:
     branches: 
       - master
   schedule:
-    - cron: "13 5 * * *"
+    - cron: "17 5 * * *"
 
 jobs:
   build:
@@ -21,5 +21,5 @@ jobs:
         type: text # optional, default is text
         # message content
         at: all
-        content: "https://kdocs.cn/l/sEX3ZPvDm?f=501  [金山文档] 状态跟踪表-电气工程部-控制及自动化部.xlsx"
+        content: "https://kdocs.cn/l/sEX3ZPvDm?f=501 \n [金山文档] 状态跟踪表-电气工程部-控制及自动化部.xlsx"
           
