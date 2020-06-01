@@ -21,5 +21,5 @@ jobs:
         type: text # optional, default is text
         # message content
         at: all
-        content: "各位小伙伴，请记得完成今日报工！\n >明珞数字化运营管理系统 \n >http://jm.minotech.cn:8002/login \n >明珞移动报工平台 \n >https://manhour.minotech.cn/"
+        content: "各位小伙伴，请记得完成今日报工！\n >明珞数字化运营管理系统 \n >http://jm.minotech.cn:8002/login"
           
